@@ -3,7 +3,13 @@
 A compact indicator for columns in niri's scrolling layout. It marks the
 focused column and updates from niri's IPC event stream.
 
-> **Requirements:** `niri` and `jq`
+**Requirements:** `niri` and `jq`
+
+## Demo
+
+(right-side of the bar)
+
+https://github.com/user-attachments/assets/0aa50832-bfd5-48ae-9eae-a4c6566069be
 
 ## Usage
 
