@@ -3,6 +3,8 @@
 A compact indicator for columns in niri's scrolling layout. It marks the
 focused column and updates from niri's IPC event stream.
 
+> This repository is archived in favor of [niri-column-indicator](https://github.com/viacoffee/niri-column-indicator).
+
 **Requirements:** `niri` and `jq`
 
 ## Demo
